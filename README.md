@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a demo project called Chefs Book<br>🌱 I’m currently studying in Holberton Coding school in Puerto Rico<br>💬 Ask me about future projects!<br>⚡ Fun fact about me is that i like to stream on my free time
+🔭 I’m currently working on multiple web apps <br>🌱 I’m currently studying in Holberton Coding school in Puerto Rico<br>💬 Ask me about future projects!<br>⚡ Fun fact about me is that i like to stream on my free time
 
 
 ## 🌐 Socials:
